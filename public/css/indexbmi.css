@@ -1,0 +1,68 @@
+h1 {
+    font-size: 81px;
+    color: #FFB26B;
+    font-family: 'Carter One', cursive;
+    margin-bottom: 0;
+}
+
+body {
+    background-color: #191825;
+}
+
+.height {
+    text-align: center;
+    position: relative;
+    left: 580px;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.weight {
+    text-align: center;
+    position: relative;
+    left: 580px;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.buttoncalculate {
+    text-align: center;
+    position: relative;
+    left: 680px;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.textword {
+    font-size: 61px;
+    color: #FFB26B;
+    font-family: 'Carter One', cursive;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#textconvert {
+    font-size: 28px;
+    color: #FFB26B;
+    text-align: center;
+}
+
+.bottom {
+    position: relative;
+    left: 646px;
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+    color: #FFB26B;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.bottom a {
+    text-align: center;
+    font-size: 28px;
+    display: inline-block;
+    color: #FFB26B;
+    padding: 15px;
+    text-decoration: none;
+}

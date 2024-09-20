@@ -1,0 +1,51 @@
+
+body {
+  background-color: #F3F8FF;
+  font-family: Arial, sans-serif;
+  /* background-color: #8a008a; */
+    /* background-image: url("https://www.transparenttextures.com/patterns/black-scales.png"); */
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+/* styles.css */
+
+.container {
+  max-width: 800px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+}
+
+/* Add more styles as needed */
